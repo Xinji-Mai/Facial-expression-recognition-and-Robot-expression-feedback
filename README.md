@@ -1,1 +1,3 @@
 # Facial-expression-recognition-and-Robot-expression-feedback
+
+这个项目通过flask搭建服务器与本地的视频流传递，通过本地摄像头识别到的视频传给服务器进行识别，将结果回传到本地并调用相应的机器人表情
